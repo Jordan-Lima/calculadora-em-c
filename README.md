@@ -8,3 +8,5 @@
     <li>Alcançar o mercado de trabalho!</li>
   </ul>
 </ul>
+
+<a href="https://github.com/Jordan-Lima/calculadora-em-c/blob/main/calc.c">Calculadora</a>
