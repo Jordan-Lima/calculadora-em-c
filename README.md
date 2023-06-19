@@ -23,5 +23,5 @@
 <br>
 <h2><img src="https://github.com/Jordan-Lima/calculadora-em-c/assets/60404264/9bf17777-c2cb-45a5-9519-fee636c92056" WIDTH="30px"> VISUALIZAÇÃO DA APLICAÇÃO</h2>
 
-<p><img src="https://github.com/Jordan-Lima/calculadora-em-c/assets/60404264/0fd2ef0f-f4fb-481b-959f-9fc9a2f4e4c3" width="500px" align="center"></p>
+<p align="center"><img src="https://github.com/Jordan-Lima/calculadora-em-c/assets/60404264/0fd2ef0f-f4fb-481b-959f-9fc9a2f4e4c3" width="500px" align="center"></p>
 
